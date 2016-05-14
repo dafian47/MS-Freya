@@ -1,0 +1,29 @@
+
+FORM PENGAJUAN PERMOHONAN KREDIT
+
+
+== DATA KENDARAAN ==
+
+Tipe Asset				: [Mobil, Motor]
+Jenis Asset				: 
+Tahun					: 
+Warna					:
+Kondisi					: [Baru, Bekas]
+
+BPKB Atas Nama			:
+Nomor BPKB				:
+
+== DATA PEMAKAI ==
+
+Nama Pemakai 			:
+Hubungan Dgn Konsumen	: [Sendiri, Keluarga, Anak]
+Alamat 					:
+RTRW 					:
+Kode Pos 				:
+
+== DATA PEMBIAYAAN ==
+
+Harga Kendaraan			: Rp.
+Tenor (Bulan)			: Rp.
+Uang Muka 				: Rp.
+Angsuran 				: Rp.

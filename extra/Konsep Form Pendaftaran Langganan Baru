@@ -1,0 +1,80 @@
+
+FORM PENDAFTARAN LANGGANAN BARU
+
+== DATA PRIBADI ==
+
+Tipe Langganan 			: [Perseorangan , Usaha Perseorangan]
+Nama Lengkap			:
+Nama Panggilan			:
+
+Tempat Lahir			: 11/02/1980
+Tanggal Lahir			:
+Jenis Kelamin			: [Pria , Wanita]
+Nomor KTP				:
+
+Nama Ibu Kandung		:
+Pendidikan Terakhir		: [Tidak Tamat SD, SD, SMP, SMA, D1, D2, D3, S1, S2, S3]
+Jumlah Tanggungan		:
+Status Perkawinan		:
+
+== DATA ALAMAT ==
+
+Alamat Domisili			: Jl.
+RTRW					:
+Kode Pos				:
+Alamat Tambahan			:	
+
+No Telfon				: 62
+No Ponsel				: 62
+Alamat Email			: 62
+
+== DATA PEKERJAAN == (Bila Tipe Pelanggan : Perseorangan)
+
+NPK						:
+Nama Perusahaan			: PT
+Alamat Perusahaan		:
+RTRW					:
+Kode Pos 				:
+No Telfon 				: 62
+No Fax 					: 62
+No Ponsel 				: 62
+Jabatan 				:
+Keterangan 				:
+Bidang Usaha 			: [Pertambangan, Kesehatan, Jasa]
+
+== DATA PERUSAHAAN == (Bila Tipe Pelanggan : Usaha Perseorangan)
+
+Nama Perusahaan 		:
+Alamat Perusahaan 		:
+RTRW 					:
+Kode Pos 				:
+No Telfon 				: 62
+No Fax 					: 62
+No Ponsel 				:
+NPWP 					:
+NPWPD 					:
+Jumlah Karyawan 		:
+Tanggal Berdiri			:
+Status Tempat	 		: [Milik Sendiri, Sewa]
+Keuntungan Bersih 		: Rp.
+Bidang Usaha 			: [Pertambangan, Kesehatan, Jasa]
+
+== DATA KEUANGAN ==
+
+Pendapatan Perbulan		: Rp.
+Pendapatan Tambahan		: Rp.
+Pengeluaran Perbulan	: Rp.
+Pendapatan Pasangan		: Rp.
+
+== DATA FOTO ==
+
+- Bila Tipe Pelanggan : Perseorangan
+	1. 	Foto KTP
+	2.	Foto KK
+	3.	Foto Slip Gaji
+	4.	Foto SIMC
+
+- Bila Tipe Pelanggan : Usaha Perseorangan
+	1.	Foto KTP
+	2.	Foto Akte Perusahaan
+	3.	Foto Faktur Pajak
